@@ -1,0 +1,7 @@
+{
+  "name": "CV_Drone_Pilot",
+  "description": "Navigate a complex 3d world with customizable interactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
